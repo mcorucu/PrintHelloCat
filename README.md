@@ -18,8 +18,6 @@ To run "Print Hello Cat", follow these steps:
 4. Right-click on the web page and select "Inspect" or press `F12`/`Ctrl+Shift+I` to open the developer tools.
 5. Go to the "Console" tab to view the output.
 
-## Screenshot
-- `screenshot.png`: A screenshot of the code in the text editor and the output in the browser console.
 
 ## About
 This project is created by Mehmet Can Orucu as part of a series of basic JavaScript programs, apps, and games. For more information, visit [LinkedIn Profile](https://www.linkedin.com/in/mcorucu/) or [mcorucu.com](http://mcorucu.com).
